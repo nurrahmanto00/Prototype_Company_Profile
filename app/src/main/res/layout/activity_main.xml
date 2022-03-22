@@ -11,8 +11,8 @@
 
     <View
         android:layout_width="match_parent"
-        android:layout_height="300dp"
-        android:background="@drawable/user" />
+        android:layout_height="100dp"
+        android:background="@drawable/background" />
 
     <ScrollView
         android:layout_width="match_parent"
