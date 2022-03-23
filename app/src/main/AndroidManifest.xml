@@ -11,8 +11,15 @@
         android:theme="@style/Theme.Smpislamalhadi">
         <activity
             android:name=".MainActivity" >
-
-
+        </activity>
+        <activity
+            android:name=".ProfilActivity" >
+        </activity>
+        <activity
+            android:name=".EkstrakurikulerActivity" >
+        </activity>
+        <activity
+            android:name=".GaleriActivity" >
         </activity>
         <activity
             android:name=".MenuActivity"
