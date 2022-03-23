@@ -19,6 +19,15 @@
             android:name=".EkstrakurikulerActivity" >
         </activity>
         <activity
+            android:name=".PrestasiActivity" >
+        </activity>
+        <activity
+            android:name=".GuruActivity" >
+        </activity>
+        <activity
+            android:name=".FasilitasActivity" >
+        </activity>
+        <activity
             android:name=".GaleriActivity" >
         </activity>
         <activity
