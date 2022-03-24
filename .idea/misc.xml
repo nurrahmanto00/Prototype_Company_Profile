@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/smpislamalhadi/app/src/main/res/drawable/background.xml" value="0.186" />
+        <entry key="..\:/smpislamalhadi/app/src/main/res/drawable/background1.xml" value="0.2245" />
         <entry key="..\:/smpislamalhadi/app/src/main/res/drawable/gradient.xml" value="0.186" />
         <entry key="..\:/smpislamalhadi/app/src/main/res/drawable/layout_bg.xml" value="0.186" />
         <entry key="..\:/smpislamalhadi/app/src/main/res/layout/activity_ekstrakurikuler.xml" value="0.225" />
@@ -11,7 +12,7 @@
         <entry key="..\:/smpislamalhadi/app/src/main/res/layout/activity_galeri.xml" value="0.225" />
         <entry key="..\:/smpislamalhadi/app/src/main/res/layout/activity_galery.xml" value="0.225" />
         <entry key="..\:/smpislamalhadi/app/src/main/res/layout/activity_guru.xml" value="0.225" />
-        <entry key="..\:/smpislamalhadi/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/smpislamalhadi/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/smpislamalhadi/app/src/main/res/layout/activity_menu.xml" value="0.225" />
         <entry key="..\:/smpislamalhadi/app/src/main/res/layout/activity_prestasi.xml" value="0.225" />
         <entry key="..\:/smpislamalhadi/app/src/main/res/layout/activity_profil.xml" value="0.225" />
